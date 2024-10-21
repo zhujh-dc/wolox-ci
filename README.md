@@ -1,4 +1,5 @@
 # Wolox CI
+https://www.jenkins.io/zh/blog/2018/04/25/configuring-jenkins-pipeline-with-yaml-file/
 
 This a Jenkins library built to make it easier for us at Wolox to configure pipelines without necessarily knowing about Jenkinsfile syntax.
 All our projects are built using a Dockerfile
